@@ -2,10 +2,16 @@
   "name": "chode",
   "version": "1.0.0",
   "description": "Simple NodeJS framework for single page applications.",
-  "main": "index.js",
+  "main": "lib/chode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ash Taylor (a@zi.vc)",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "chode": "bin/chode-binary.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }
