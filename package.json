@@ -1,0 +1,11 @@
+{
+  "name": "chode",
+  "version": "1.0.0",
+  "description": "Simple NodeJS framework for single page applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ash Taylor (a@zi.vc)",
+  "license": "MIT"
+}
