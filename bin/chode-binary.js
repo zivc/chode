@@ -3,6 +3,7 @@ let chode = require('../lib/chode.js'),
     program = cli = require('commander'),
     pkg = require('../package.json');
 
+global.chode = chode;
 
 cli
   .version('0.0.1');
