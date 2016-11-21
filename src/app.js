@@ -1,3 +1,1 @@
-let chode = require('chode');
-
-chode.raise();
+require('chode').raise();

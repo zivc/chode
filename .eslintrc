@@ -1,0 +1,32 @@
+{
+    "extends":"eslint:recommended",
+    "env": {
+        "browser": true,
+        "node": true,
+        "mocha": true,
+    },
+    "globals":{
+        "angular":true,
+        "app":true,
+        "kendo":true,
+        "$":true,
+        "Model":true,
+        "Sql":true,
+        "KendoQueryFormatter":true,
+        "Promise":true,
+        "Qs":true
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "sourceType": "module"
+    },
+    "rules": {
+        "linebreak-style": "off",
+        "semi": "off",
+        "indent": "off",
+        "quotes": "off",
+        "no-console": "off"
+    }
+}
