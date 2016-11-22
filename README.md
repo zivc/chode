@@ -7,4 +7,5 @@ Based off SailsJS.
 
 ~ Dave, 17th November, 8:17pm
 
-![David](/docs/darve.png?raw=true "Fuck you, Dave")
+![David](//raw.githubusercontent.com/zivc/chode/master/docs/darve.png "Fuck you, Dave")
+
