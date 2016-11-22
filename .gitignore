@@ -38,3 +38,5 @@ jspm_packages
 
 www
 .DS_Store
+
+assets/js/libs/*

@@ -1,6 +1,6 @@
 {
   "name": "chode",
-  "version": "1.0.4",
+  "version": "0.0.6",
   "description": "Simple NodeJS framework for single page applications.",
   "main": "lib/chode.js",
   "scripts": {
@@ -20,6 +20,7 @@
     "express": "^4.14.0",
     "fs-extra": "^1.0.0",
     "grunt": "^1.0.1",
-    "grunt-contrib-clean": "^1.0.0"
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0"
   }
 }

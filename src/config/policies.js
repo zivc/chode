@@ -1,7 +1,9 @@
 module.exports.policies = {
 
     DefaultController:{
-        view:[]
+        view:[
+            'DefaultPolicy'
+        ]
     }
 
 };

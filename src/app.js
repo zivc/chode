@@ -1,1 +1,1 @@
-require('chode').raise();
+require('chode').raise(__dirname);
