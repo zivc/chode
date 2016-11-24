@@ -7,8 +7,7 @@ Based on SailsJS.
 
 ~ Dave, 17th November, 8:17pm
 
-![Fuck you, Dave](https://raw.githubusercontent.com/zivc/chode/master/docs/darve.png)
-
+![Me IRL](https://raw.githubusercontent.com/zivc/chode/master/docs/darve.png)
 
 # Usage
 
