@@ -1,7 +1,7 @@
 # Chode
 ## NodeJS Web Framework for basic SPA
 
-Based off SailsJS.
+Based on SailsJS.
 
 >Why don't you do something fun instead of another fucking framework
 
