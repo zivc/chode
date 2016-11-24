@@ -1,7 +1,7 @@
-# Chode
+# Hugh-Mungus
 ## NodeJS Web Framework for basic SPA
 
-Based on SailsJS.
+Based on SailsJS. The package formerly known as chode.
 
 >Why don't you do something fun instead of another fucking framework
 
