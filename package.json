@@ -1,6 +1,6 @@
 {
-  "name": "chode",
-  "version": "0.0.7",
+  "name": "hugh-mungus",
+  "version": "0.0.2",
   "description": "Simple NodeJS framework for single page applications.",
   "main": "lib/chode.js",
   "scripts": {
@@ -20,7 +20,9 @@
     "express": "^4.14.0",
     "fs-extra": "^1.0.0",
     "grunt": "^1.0.1",
+    "grunt-angular-templates": "^1.1.0",
     "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-copy": "^1.0.0"
   }
 }

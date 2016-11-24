@@ -9,4 +9,10 @@ Based off SailsJS.
 
 ![Fuck you, Dave](https://raw.githubusercontent.com/zivc/chode/master/docs/darve.png)
 
-This is Dave.
+
+# Usage
+
+First off, grab the latest version of chode.
+
+`npm i -g chode`
+
